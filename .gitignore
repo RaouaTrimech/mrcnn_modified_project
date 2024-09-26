@@ -1,0 +1,66 @@
+# Data files and directories common in repo root
+datasets/
+logs/
+*.h5
+results/
+temp/
+test/
+kangaroo/
+Deep Potato/annots
+Deep Potato/images
+Deep Potato/images_init
+Deep Potato/measurements
+Deep Potato/orthophoto_maps
+potato_config*/
+images/
+mask_rcnn.egg-info/
+# Byte-compiled / optimized / DLL files
+__pycache__/
+*.py[cod]
+*$py.class
+
+# Distribution / packaging
+.Python
+env/
+build/
+develop-eggs/
+dist/
+downloads/
+eggs/
+.eggs/
+lib/
+lib64/
+parts/
+sdist/
+var/
+wheels/
+*.egg-info/
+.installed.cfg
+*.egg
+
+# Installer logs
+pip-log.txt
+pip-delete-this-directory.txt
+
+# VS Studio Code
+.vscode
+
+# PyCharm
+.idea/
+
+# Dropbox
+.dropbox.attr
+
+# Jupyter Notebook
+.ipynb_checkpoints
+
+# pyenv
+.python-version
+
+# dotenv
+.env
+
+# virtualenv
+.venv
+venv/
+ENV/
